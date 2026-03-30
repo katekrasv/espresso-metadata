@@ -1,0 +1,20 @@
+{
+  "pub_key": "BLS_VER_KEY~JURgsH0el5SAnvI5y7ZKEdoHvtTyU_sI6lQgnFs8LRXt3R8pK2BvvIx5XpQdiJ87VYp-OqoE6fzi8D_ZCXZcCr1tWCv5u-Zg339JJjJLZmB4uWqPi_7csyg-fbspHr8N7cj3_NvXUsl4FDpKV1uvor6vz0azKyTHmEmpBSYjvhF_",
+  "name": "Perfect-nodes",
+  "description": "Security and high-quality PoS/PoW validator. Best choice",
+  "company_name": "Perfect-nodes",
+  "company_website": "https://perfect-nodes.com",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": {
+      "@1x": "https://raw.githubusercontent.com/katekrasv/espresso-metadata/main/14.png",
+      "@2x": "https://raw.githubusercontent.com/katekrasv/espresso-metadata/main/28.png",
+      "@3x": "https://raw.githubusercontent.com/katekrasv/espresso-metadata/main/42.png"
+    },
+    "24x24": {
+      "@1x": "https://raw.githubusercontent.com/katekrasv/espresso-metadata/main/24.png",
+      "@2x": "https://raw.githubusercontent.com/katekrasv/espresso-metadata/main/48.png",
+      "@3x": "https://raw.githubusercontent.com/katekrasv/espresso-metadata/main/72.png"
+    }
+  }
+}
